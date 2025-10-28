@@ -2,7 +2,8 @@
 Power BI | DAX | Time-Series Analysis | Portfolio Insights  
 A trading performance intelligence dashboard analyzing trader efficiency, company-wise stock movement, and daily return behavior for improved investment decision-making.
 
-
+# Power Bi Dashboard pdf
+https://drive.google.com/file/d/1JV2ngZGtDN7x-SdtAc_i18VLq1tL2c9j/view?usp=drive_link 
 
 # Key Features
 
